@@ -7,9 +7,9 @@
   "theme_color": "#1e3c72",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAYAAACtWK6eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AUOECUFiwHZrAAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAABYSURBVHja7cExAQAAAMKg9U9tCF8gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPgHYAEAB49mWgAAAABJRU5ErkJggg==",
       "sizes": "192x192",
       "type": "image/png"
     }
   ]
-    }
+}
